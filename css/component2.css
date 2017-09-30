@@ -166,6 +166,7 @@ body {
 	-webkit-transition-delay: 0.3s;
 	transition-delay: 0.3s;
 	pointer-events: auto;
+	border: 4px solid blue;
 }
 
 .back:hover {
