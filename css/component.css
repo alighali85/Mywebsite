@@ -213,7 +213,7 @@ body {
 
 /* Inner page content */
 .page-inner {
-	padding: 2em;
+	padding: 1em;
 }
 
 .page-inner section {
@@ -223,12 +223,21 @@ body {
 .page-inner h2 {
 	margin: 0 0 1em 0;
 	font-weight: 300;
-	font-size: 2.4em;
+	font-size: 2em;
 }
 
 .page-inner p {
-	font-weight: 300;
-	font-size: 1.2em;
+	font-weight: 200;
+	font-size: 1em;
+	text-align: left;
+	color: lightblue;
+}
+
+.page-inner h3 {
+	margin-bottom: 0em;
+	font-weight: 200;
+	font-size: 1.5em;
+	text-align: left;
 }
 
 /* All transitions */

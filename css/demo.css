@@ -30,12 +30,6 @@ a {
 	text-decoration: none;
 }
 
-h3,p{
-	width:100%;
-	text-align: left;
-	font-size: 1em;
-}
-
 a:hover {
 	color: #000;
 }
