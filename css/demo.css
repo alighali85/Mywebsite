@@ -99,6 +99,11 @@ a:hover {
 	position: relative;
 }
 
+.know-me p {
+	text-align: left;
+	font-size: 12px;
+
+}
 .websiteheader > span span:hover:before {
 	content: attr(data-content);
 	text-transform: none;
@@ -131,8 +136,7 @@ a:hover {
     -webkit-margin-end: 40px;
 }
 
-.newheads{
-	
+.newheads {
 	align-content:center;
 	color: #EF7933;
 	font-size:30px;

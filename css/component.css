@@ -248,10 +248,19 @@ body {
 	transition: transform 0.6s, top 0.6s;
 }
 
-.intro-content h1,
 .back {
 	-webkit-transition: opacity 0.3s;
 	transition: opacity 0.3s;
+	top:80vh;
+	width:100%;
+	font-size: 1em;
+	font-weight:200;
+}
+
+.intro-content h1 {
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+
 }
 
 /* Open and close */
