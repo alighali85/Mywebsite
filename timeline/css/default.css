@@ -68,12 +68,12 @@ footer {
 }
 
 footer > span {
-	background-color: red;
-	color: white;
+	color: red;
 	width: 50%;
-	padding: 0.2em 2em 0.2em 2em;
+	padding: 0.2em 2em 0.4em 2em;
 	border-radius: 20px;
-	font-size: 0.5em;
+	font-size: 0.4em;
+	font-weight:200;
 }
 
 .main,
